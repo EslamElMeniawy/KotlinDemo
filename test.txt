@@ -1,2 +1,3 @@
 Some text to add to file
 Another line to add to file
+One more line
